@@ -5,6 +5,7 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Built on Biopython](https://img.shields.io/badge/built%20on-Biopython-green.svg)](https://biopython.org/)
+Author: Deepbendu Das GitHub: @dasdeepbendu12-dev
 
 `protein-physchem` computes the full ExPASy ProtParam metric set — molecular weight, theoretical pI, instability index, aliphatic index, GRAVY, aromaticity, extinction coefficient — alongside additional scale-based indices (Boman, Wimley–White, Eisenberg, Hopp–Woods) and net charge at any user-specified pH. Hand it a CSV, TSV, Excel, or FASTA file and get back a multi-sheet Excel report. No internet access, no rate limits.
 
@@ -262,4 +263,11 @@ Issues and pull requests are welcome. For bug reports, please include:
 
 ## License
 
-Released under the [MIT License](LICENSE).
+Copyright (c) 2026 STLAB at Indian Institute of Chemical Biology
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
