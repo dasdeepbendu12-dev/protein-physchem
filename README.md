@@ -5,6 +5,7 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Built on Biopython](https://img.shields.io/badge/built%20on-Biopython-green.svg)](https://biopython.org/)
+
 Author: Deepbendu Das GitHub: @dasdeepbendu12-dev
 
 `protein-physchem` computes the full ExPASy ProtParam metric set — molecular weight, theoretical pI, instability index, aliphatic index, GRAVY, aromaticity, extinction coefficient — alongside additional scale-based indices (Boman, Wimley–White, Eisenberg, Hopp–Woods) and net charge at any user-specified pH. Hand it a CSV, TSV, Excel, or FASTA file and get back a multi-sheet Excel report. No internet access, no rate limits.
