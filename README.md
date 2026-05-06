@@ -74,12 +74,11 @@ python -m protein_physchem
 - `openpyxl` ≥ 3.0
 
 ## Quick start
-
+This part is to be done after the installation process is done 
 The fastest way is to just run it — the tool will ask you for everything it needs:
 
 ```bash
-protein_physchem
-or
+
 python -m protein_physchem
 
 ```
