@@ -50,7 +50,7 @@
 ### From source (recommended for now)
 
 ```bash
-git clone https://github.com/<your-username>/protein-physchem.git
+git clone https://github.com/computational-genomics-lab/protein-physchem.git
 cd protein-physchem
 pip install .
 ```
