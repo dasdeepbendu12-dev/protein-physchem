@@ -78,7 +78,10 @@ python -m protein_physchem
 The fastest way is to just run it — the tool will ask you for everything it needs:
 
 ```bash
-protein-physchem
+protein_physchem
+or
+python -m protein_physchem
+
 ```
 
 Sample session:
