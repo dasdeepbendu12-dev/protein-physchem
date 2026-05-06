@@ -30,7 +30,7 @@ dependencies = [
 ]
 
 [project.scripts]
-protparam-offline = "protparam_offline.cli:main"
+protein-physchem = "protparam_offline.cli:main"
 
 [project.urls]
 Source = "https://example.com/protparam-offline"
