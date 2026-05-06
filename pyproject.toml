@@ -30,10 +30,10 @@ dependencies = [
 ]
 
 [project.scripts]
-protein-physchem = "protparam_offline.cli:main"
+protein-physchem = "protein_physchem.cli:main"
 
 [project.urls]
 Source = "https://example.com/protparam-offline"
 
 [tool.setuptools.packages.find]
-include = ["protparam_offline*"]
+include = ["protein_physchem*"]
